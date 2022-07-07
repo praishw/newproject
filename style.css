@@ -1,0 +1,36 @@
+*{
+    padding: 0;
+    margin:0;
+
+}
+body{
+    background-color:orange;
+}
+.container{
+    text-align: center;
+    font-family: "Times New Roman", Times, serif;
+    padding: 50px;
+    margin-top: 100px;
+    color: white;
+    font-size:35px;                                        ;
+}
+#onclick{
+    text-align: center;
+    font-size:80px; 
+    color: white;
+}
+.center{
+    margin-left:470px;
+    padding: 20px;
+}
+.button{
+    border-style: ridge;
+    border-color:white;
+    color: white;
+    background-color: orange;
+    cursor: pointer;
+    display: inline-block;
+  font-size: 24px;
+  margin: 4px 2px;
+  padding: 15px 32px;
+}
